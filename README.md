@@ -28,6 +28,8 @@ Grand pain au chocolat  | 1,70 euro
 
 Samantha est de nouveau la , je l'aperçois en train de servir du café comme à son habitude. Nos regards se croisent encore une fois , je souris timidement . Elle détourne le regard. **Une belle journée qui commence**
 
+J'adore l'histoire de _Samantha_  *la prochaine fois vas y fonce*
+
 
 
 

@@ -4,7 +4,7 @@
 
 le site du panos: [Panos](http://www.panos.be/fr/home)
 
-Tous les matins je vais chercher un petit pain au chocolat a la gare. (manque d'inspiration)
+Tous les matins je vais chercher un petit pain au chocolat a la gare. (manque d'inspiration).
 
 
 *il est 8h40* quand je suis au guichet.
@@ -16,7 +16,6 @@ Déscription             | Prix
 Petit pain au chocolat  | 1,15 euro
 Grand pain au chocolat  | 1,70 euro
 
-
   * Les avantages:
       1. Très bon :-)
       2. Service rapide
@@ -27,7 +26,9 @@ Grand pain au chocolat  | 1,70 euro
       2. Beaucoups de gens
 
 
-Samantha est de nouveau la , je l'aperçois en train de servir du café comme à son habitude. Nos regards se croisent encore une fois , je souris timidement . Elle détourne le regard. **Une belle journée qui commence**
+Samantha est de nouveau la , je l'aperçois en train de servir du café comme à son habitude. Nos regards se croisent encore une fois , je souris timidement . Elle détourne le regard.
+
+**Une belle journée qui commence** .
 
 J'adore l'histoire de _Samantha_  *la prochaine fois vas y fonce*
 

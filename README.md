@@ -31,38 +31,9 @@ Samantha est de nouveau la , je l'aperçois en train de servir du café comme à
 
 J'adore l'histoire de _Samantha_  *la prochaine fois vas y fonce*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 :octocat:
-=======
-**TOUS** les matins, les pains au chocolats me regardent avec leurs petits yeux sucrés:
+
+les matins, les pains au chocolats me regardent avec leurs petits yeux sucrés:
 > Moi, moi, moi
 > NON, moi!
 > Mange-moi, plutôt!
@@ -70,4 +41,3 @@ J'adore l'histoire de _Samantha_  *la prochaine fois vas y fonce*
 
 
 Tous les matins, c'est la galère pour choisir...
->>>>>>> Son

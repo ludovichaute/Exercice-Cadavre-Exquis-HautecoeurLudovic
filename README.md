@@ -6,7 +6,7 @@ le site du panos: [Panos](http://www.panos.be/fr/home)
 
 Tous les matins je vais chercher un petit pain au chocolat a la gare. (manque d'inspiration)
 
-<<<<<<< HEAD
+
 *il est 8h40* quand je suis au guichet.
 
 **liste des prix:**

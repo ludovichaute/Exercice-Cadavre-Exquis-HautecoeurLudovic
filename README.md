@@ -31,7 +31,9 @@ Samantha est de nouveau la , je l'aperçois en train de servir du café comme à
 J'adore l'histoire de _Samantha_  *la prochaine fois vas y fonce*
 
 
-
+Déjà, on dit pas "pain au chocolat", mais "chocolatine" ! #DébutCivilWar
+Wesh, t'as vu? chui trop fort!
+photo : ![alt text](http://edia.topito.com/wp-content/uploads/2016/08/chco-1.jpg)
 
 
 

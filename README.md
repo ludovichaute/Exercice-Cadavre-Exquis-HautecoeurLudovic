@@ -26,9 +26,7 @@ Grand pain au chocolat  | 1,70 euro
       2. Beaucoups de gens
 
 
-
-
-
+Samantha est de nouveau la , je l'aperçois en train de servir du café comme à son habitude. Nos regards se croisent encore une fois , je souris timidement . Elle détourne le regard. **Une belle journée qui commence**
 
 
 

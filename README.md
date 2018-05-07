@@ -7,4 +7,6 @@ Tous les matins je vais chercher un petit pain au chocolat a la gare. (manque d'
 > NON, moi!
 > Mange-moi, plutôt!
 
+
+
 Tous les matins, c'est la galère pour choisir...

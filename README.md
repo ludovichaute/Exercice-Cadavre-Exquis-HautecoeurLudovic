@@ -6,6 +6,7 @@ le site du panos: [Panos](http://www.panos.be/fr/home)
 
 Tous les matins je vais chercher un petit pain au chocolat a la gare. (manque d'inspiration)
 
+<<<<<<< HEAD
 *il est 8h40* quand je suis au guichet.
 
 **liste des prix:**
@@ -60,3 +61,11 @@ J'adore l'histoire de _Samantha_  *la prochaine fois vas y fonce*
 
 
 :octocat:
+=======
+**TOUS** les matins, les pains au chocolats me regardent avec leurs petits yeux sucrés:
+> Moi, moi, moi
+> NON, moi!
+> Mange-moi, plutôt!
+
+Tous les matins, c'est la galère pour choisir...
+>>>>>>> Son
